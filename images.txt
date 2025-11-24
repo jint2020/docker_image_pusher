@@ -7,3 +7,15 @@ ghcr.io/iflytek/astron-rpa/ai-service:latest
 ghcr.io/iflytek/astron-rpa/openapi-service:latest
 ghcr.io/iflytek/astron-rpa/resource-service:latest
 ghcr.io/iflytek/astron-rpa/robot-service:latest
+
+ghcr.io/iflytek/astron-agent/console-frontend:latest
+ghcr.io/iflytek/astron-agent/console-hub:latest
+ghcr.io/iflytek/astron-agent/core-agent:latest
+ghcr.io/iflytek/astron-agent/core-aitools:latest
+ghcr.io/iflytek/astron-agent/core-database:latest
+ghcr.io/iflytek/astron-agent/core-knowledge:latest
+ghcr.io/iflytek/astron-agent/core-link:latest
+ghcr.io/iflytek/astron-agent/core-rpa:latest
+ghcr.io/iflytek/astron-agent/core-tenant:latest
+ghcr.io/iflytek/astron-agent/core-workflow:latest
+
