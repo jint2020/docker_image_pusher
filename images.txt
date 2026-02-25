@@ -19,3 +19,4 @@ ghcr.io/iflytek/astron-agent/core-rpa:latest
 ghcr.io/iflytek/astron-agent/core-tenant:latest
 ghcr.io/iflytek/astron-agent/core-workflow:latest
 
+--platform=linux/arm64 quay.io/ascend/vllm-ascend:v0.13.0-openeuler
